@@ -1,2 +1,2 @@
-def queen():
+def Queen():
     print("I am the queen")
