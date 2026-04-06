@@ -16,4 +16,5 @@ keep working on the plan (below)
 4. make sure each player has a full set
 5. move pieces on the board (click and move to new location, ensure that only on board moves are valid)
 6. designate "correct" movements (capture, special first move, pawn promotion, diagonals, knight L shape)
-7. capture ability
+7. capture ability (storing captured pieces/score)
+8. winning animation
